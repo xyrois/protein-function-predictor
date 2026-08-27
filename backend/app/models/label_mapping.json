@@ -1,0 +1,10 @@
+{
+    "id_to_label": {
+        "0": "Oxidoreductase",
+        "1": "Transferase",
+        "2": "Hydrolase",
+        "3": "Lyase",
+        "4": "Isomerase",
+        "5": "Ligase"
+    }
+}

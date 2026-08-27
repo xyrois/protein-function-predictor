@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# ML datasets
+backend/data/raw/
+backend/data/processed/
+backend/data/splits/
+
+# ML model artifacts
+backend/app/models/*.pt
+
+# Generated evaluation results
+backend/app/results/*.png
+backend/app/results/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
