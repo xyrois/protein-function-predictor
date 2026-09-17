@@ -16,6 +16,7 @@ app.add_middleware(
         "http://127.0.0.1:5173",
         "http://localhost:3000",
         "https://esm2-protein-predictor.vercel.app",
+        "https://frontend-dra0ejym8-brinta-kundus-projects.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
