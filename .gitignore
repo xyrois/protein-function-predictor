@@ -18,14 +18,12 @@ env/
 # Environment variables
 .env
 .env.*
+!.env.example
 
 # ML datasets
 backend/data/raw/
 backend/data/processed/
 backend/data/splits/
-
-# ML model artifacts
-backend/app/models/*.pt
 
 # Generated evaluation results
 backend/app/results/*.png
